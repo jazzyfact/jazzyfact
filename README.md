@@ -11,5 +11,5 @@
 ![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white) 
 ![Styled-Components](https://img.shields.io/badge/Styled--Components-DB7093?style=flat-square&logo=styled-components&logoColor=white)  
 
-
-
+### blog
+https://lofi-developer.tistory.com/
